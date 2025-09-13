@@ -12,9 +12,5 @@ int main ()
     const_b = 30 ; // This is valid because 'const_b' is of type 'int'  
     std::cout << "const_a: " << const_a << ", const_b: " << const_b << std::endl ;  
 
-
-
-
-
     return 0 ; 
 }
